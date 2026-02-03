@@ -1,1 +1,85 @@
-# moneyhustlenow
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Side Hustles Near Me – MoneyHustleNow</title>
+  <meta name="description" content="The best side hustles near you that pay fast. Delivery, gig work, online income, and more." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <h1>Side Hustles Near Me</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="side-hustles-near-me.html">Side Hustles</a>
+        <a href="side-jobs-near-me.html">Side Jobs</a>
+        <a href="ways-to-make-money-near-me.html">Make Money</a>
+        <a href="gig-apps-near-me.html">Gig Apps</a>
+        <a href="product-50-side-hustles.html">50 Hustles Guide</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>Real Side Hustles You Can Start Fast</h2>
+      <p>These are the most reliable, fast‑paying side hustles available in most cities.</p>
+    </section>
+
+    <section>
+      <h2>Top Side Hustles Near Me</h2>
+
+      <h3>Delivery Apps</h3>
+      <ul>
+        <li>DoorDash</li>
+        <li>Instacart</li>
+        <li>Uber Eats</li>
+        <li>Grubhub</li>
+      </ul>
+
+      <h3>Grocery Shopping</h3>
+      <ul>
+        <li>Instacart</li>
+        <li>Shipt</li>
+      </ul>
+
+      <h3>Dog Walking & Pet Sitting</h3>
+      <ul>
+        <li>Rover</li>
+        <li>Wag</li>
+      </ul>
+
+      <h3>Local Gig Apps</h3>
+      <ul>
+        <li>TaskRabbit</li>
+        <li>Thumbtack</li>
+      </ul>
+
+      <h3>Freelancing</h3>
+      <ul>
+        <li>Fiverr</li>
+        <li>Upwork</li>
+        <li>Freelancer</li>
+      </ul>
+    </section>
+
+    <section class="highlight">
+      <h2>Get 50 More Side Hustles</h2>
+      <a class="button" href="product-50-side-hustles.html">Download the $7 Guide</a>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> MoneyHustleNow</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
