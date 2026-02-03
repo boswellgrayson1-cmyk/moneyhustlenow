@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Side Jobs Near Me – MoneyHustleNow</title>
+  <meta name="description" content="Side jobs near you that hire fast and pay well. Delivery, warehouse, cleaning, pet care, and more." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <h1>Side Jobs Near Me</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="side-hustles-near-me.html">Side Hustles</a>
+        <a href="side-jobs-near-me.html">Side Jobs</a>
+        <a href="ways-to-make-money-near-me.html">Make Money</a>
+        <a href="gig-apps-near-me.html">Gig Apps</a>
+        <a href="product-50-side-hustles.html">50 Hustles Guide</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>Side Jobs That Hire Fast</h2>
+      <p>These side jobs pay well, hire quickly, and fit almost any schedule
