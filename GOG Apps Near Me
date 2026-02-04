@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gig Apps Near Me – MoneyHustleNow</title>
+  <meta name="description" content="Best gig apps near you to earn money fast. Delivery, tasks, pet care, freelancing, and more." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <h1>Gig Apps Near Me</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="side-hustles-near-me.html">Side Hustles</a>
+        <a href="side-jobs-near-me.html">Side Jobs</a>
+        <a href="ways-to-make-money-near-me.html">Make Money</a>
+        <a href="gig-apps-near-me.html">Gig Apps</a>
+        <a href="product-50-side-hustles.html">50 Hustles Guide</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>Best Gig Apps to Earn Money Fast</h2>
+      <p>Gig apps make it easy to start earning money without a long hiring process. Sign up, get approved, and start working on your own schedule.</p>
+    </section>
+
+    <section>
+      <h2>Top Gig Apps Near Me</h2>
+
+      <h3>Delivery Apps</h3>
+      <ul>
+        <li>DoorDash</li>
+        <li>Uber Eats</li>
+        <li>Grubhub</li>
+        <li>Instacart</li>
+      </ul>
+
+      <h3>Task Apps</h3>
+      <ul>
+        <li>TaskRabbit</li>
+        <li>Thumbtack</li>
+      </ul>
+
+      <h3>Pet Care Apps</h3>
+      <ul>
+        <li>Rover</li>
+        <li>Wag</li>
+      </ul>
+
+      <h3>Freelance Apps</h3>
+      <ul>
+        <li>Fiverr</li>
+        <li>Upwork</li>
+      </ul>
+
+      <h3>Survey & Microtask Apps</h3>
+      <ul>
+        <li>Survey Junkie</li>
+        <li>InboxDollars</li>
+        <li>Swagbucks</li>
+      </ul>
+    </section>
+
+    <section class="highlight">
+      <h2>Build a Full Side Hustle Plan</h2>
+      <p>Use gig apps plus local side hustles to build a steady income stream.</p>
+      <p><a class="button" href="product-50-side-hustles.html">Get the 50 Side Hustles Guide</a></p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> MoneyHustleNow</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
