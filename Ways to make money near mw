@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ways to Make Money Near Me – MoneyHustleNow</title>
+  <meta name="description" content="Fast, real ways to make money near you. Local jobs, gigs, online work, and more." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <h1>Ways to Make Money Near Me</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="side-hustles-near-me.html">Side Hustles</a>
+        <a href="side-jobs-near-me.html">Side Jobs</a>
+        <a href="ways-to-make-money-near-me.html">Make Money</a>
+        <a href="gig-apps-near-me.html">Gig Apps</a>
+        <a href="product-50-side-hustles.html">50 Hustles Guide</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>Fast Ways to Make Money Near You</h2>
+      <p>If you need extra cash, these are some of the fastest and most realistic ways to make money in your local area.</p>
+    </section>
+
+    <section>
+      <h2>Fastest Ways to Make Money Near Me</h2>
+
+      <h3>Delivery Apps</h3>
+      <p>Deliver food or groceries and get paid quickly.</p>
+      <ul>
+        <li>DoorDash</li>
+        <li>Instacart</li>
+        <li>Uber Eats</li>
+      </ul>
+
+      <h3>Sell Items You Don’t Need</h3>
+      <p>Turn unused items into cash today.</p>
+      <ul>
+        <li>Facebook Marketplace</li>
+        <li>OfferUp</li>
+        <li>Craigslist</li>
+      </ul>
+
+      <h3>Yard Work & Outdoor Jobs</h3>
+      <p>People will pay same‑day for help with their yard.</p>
+      <ul>
+        <li>Mowing</li>
+        <li>Raking</li>
+        <li>Hauling</li>
+        <li>Cleanup</li>
+      </ul>
+
+      <h3>Cleaning Jobs</h3>
+      <p>House cleaning is always in demand and pays well.</p>
+      <ul>
+        <li>TaskRabbit</li>
+        <li>Thumbtack</li>
+      </ul>
+
+      <h3>Pet Care</h3>
+      <p>Dog walking and pet sitting can become steady income.</p>
+      <ul>
+        <li>Rover</li>
+        <li>Wag</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Ways to Make Money From Home</h2>
+      <ul>
+        <li>Freelancing</li>
+        <li>Virtual assistant work</li>
+        <li>Online tutoring</li>
+        <li>Remote customer service</li>
+        <li>Selling digital products</li>
+      </ul>
+    </section>
+
+    <section class="highlight">
+      <h2>Need More Ideas?</h2>
+      <p>Get 50 detailed side hustles you can start near you, plus how to get your first customer.</p>
+      <p><a class="button" href="product-50-side-hustles.html">Get the $7 Guide</a></p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> MoneyHustleNow</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
