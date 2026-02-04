@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>50 Side Hustles Near Me – $7 Guide | MoneyHustleNow</title>
+  <meta name="description" content="Download the 50 Side Hustles Near Me guide. Fast, simple ideas to start earning money quickly." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <h1>50 Side Hustles Near Me</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="side-hustles-near-me.html">Side Hustles</a>
+        <a href="side-jobs-near-me.html">Side Jobs</a>
+        <a href="ways-to-make-money-near-me.html">Make Money</a>
+        <a href="gig-apps-near-me.html">Gig Apps</a>
+        <a href="product-50-side-hustles.html">50 Hustles Guide</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section class="highlight">
+      <h2>A Simple $7 Guide to Start Earning Fast</h2>
+      <p>This guide gives you 50 real side hustles you can start near you, plus what they pay, what you need, and how to get your first customer.</p>
+
+      <ul>
+        <li>Fast‑paying side hustles you can start this week</li>
+        <li>Ideas for people with cars, no car, or just a phone</li>
+        <li>Local and online options</li>
+        <li>Simple steps to get started</li>
+      </ul>
+
+      <p><strong>Price:</strong> $7 – instant download.</p>
+      <p><em>(Connect this button to your payment/checkout link.)</em></p>
+
+      <p><a class="button" href="#">Buy Now for $7</a></p>
+    </section>
+
+    <section>
+      <h2>Who This Guide Is For</h2>
+      <ul>
+        <li>People who need extra cash quickly</li>
+        <li>Parents, students, and workers looking for flexible income</li>
+        <li>Anyone who wants real, practical ideas — not hype</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>What You’ll Learn</h2>
+      <ul>
+        <li>Which side hustles pay the fastest</li>
+        <li>What tools or apps you need</li>
+        <li>How to avoid wasting time on low‑paying work</li>
+        <li>How to stack multiple side hustles for more income</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> MoneyHustleNow</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
