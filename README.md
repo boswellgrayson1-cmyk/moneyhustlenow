@@ -67,6 +67,8 @@ The site is configured for the custom domain `moneyhustlenow.com`.
 
 **DNS Configuration Steps:**
 
+**Note:** The IP addresses listed below are current as of early 2025. Always verify the latest GitHub Pages IP addresses at [GitHub's official documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) before configuring your DNS.
+
 1. Go to your domain registrar's DNS settings
 2. Add the following DNS records:
 
